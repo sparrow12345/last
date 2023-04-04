@@ -1,5 +1,4 @@
 {
-	"homepage": "http://sparrow12345.github.io/last",
 	"name": "last",
 	"version": "0.0.1",
 	"private": true,
@@ -16,7 +15,7 @@
 		"lint:fix": "eslint --fix './src/**/*.{js,ts,svelte}'",
 		"prelint": "npm run format",
 		"prepare": "husky install",
-		"deploy": "npx gh-pages -d src"
+		"deploy": "npx gh-pages -d static"
 	},
 	"devDependencies": {
 		"@neoconfetti/svelte": "^1.0.0",
