@@ -1,6 +1,6 @@
 <script>
 	import './styles.css';
-	import {base} from "$app/paths";
+	import { base } from '$app/paths';
 </script>
 
 <div class="app">
@@ -53,7 +53,7 @@
 	a:hover {
 		color: var(--color-theme-1);
 	}
-	
+
 	.app {
 		display: flex;
 		flex-direction: column;

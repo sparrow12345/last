@@ -1,4 +1,3 @@
-
 <svelte:head>
 	<title>Home</title>
 	<meta name="description" content="Svelte demo app" />
@@ -10,9 +9,10 @@
 		<li>Languages: C/C++, C#, Java, Python, JavaScript, bash, Solidity</li>
 		<li>Frameworks/Libraries: React JS, Pandas, NumPy, Matplotlib, Sci-Kit learn</li>
 		<li>Tools: Version Control (Git), VS Code, Jupyter Notebook</li>
-		<li>Spoken languages: Arabic - Native, English – Fluent, French – Intermediate, Russian – Beginner</li>
+		<li>
+			Spoken languages: Arabic - Native, English – Fluent, French – Intermediate, Russian – Beginner
+		</li>
 	</ul>
-
 </section>
 
 <style>
