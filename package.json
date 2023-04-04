@@ -14,8 +14,7 @@
 		"format": "prettier --plugin-search-dir . --write .",
 		"lint:fix": "eslint --fix './src/**/*.{js,ts,svelte}'",
 		"prelint": "npm run format",
-		"prepare": "husky install",
-		"deploy": "npx gh-pages -d static"
+		"prepare": "husky install"
 	},
 	"devDependencies": {
 		"@neoconfetti/svelte": "^1.0.0",
